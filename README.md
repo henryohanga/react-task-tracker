@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# React Task Tracker
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -8,11 +8,13 @@ In the project directory, you can run:
 
 ### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Runs the app in the development mode and also starts the backend mock json-server in watch mode.\
+Open [http://localhost:3000](http://localhost:3000) to view the task tracker in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+
+Open [http://localhost:8080/tasks](http://localhost:8080/tasks) to view tasks on the server.
 
 ### `yarn test`
 
