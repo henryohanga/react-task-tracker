@@ -1,21 +1,21 @@
 {
   "tasks": [
     {
-      "text": "New task",
-      "day": "",
-      "reminder": false,
+      "text": "Sample task 1",
+      "day": "Tomorrow at noon",
+      "reminder": true,
       "id": 1
     },
     {
-      "text": "Next time for the ",
-      "day": "jdjhdjdd",
+      "text": "Sample task 2",
+      "day": "Thursday at 09:00 am",
       "reminder": false,
       "id": 2
     },
     {
-      "text": "Next time is rea",
-      "day": "jdjdjd",
-      "reminder": false,
+      "text": "Sample task 3",
+      "day": "Every Friday at 3pm",
+      "reminder": true,
       "id": 3
     }
   ]
